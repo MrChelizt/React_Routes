@@ -17,11 +17,11 @@
 
 ### Screenshots
 
-![](./screenshots/homePage.png)
+![](./src/screenshots/homePage.png)
 
-![](./screenshots/productsPage.png)
+![](./src/screenshots/productsPage.png)
 
-![](./screenshots/productDetail.png)
+![](./src/screenshots/productDetail.png)
 
 ### Notes
 
