@@ -1,0 +1,17 @@
+.home {
+  background-image: url("../screenshots/sea.jpeg");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  margin-top: 0;
+  position: fixed;
+}
+
+.home h1 {
+  color: white;
+  margin-bottom: 3%;
+}
+
+.container {
+  margin: 15%;
+}
